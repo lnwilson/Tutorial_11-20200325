@@ -1,0 +1,1001 @@
+genhlth,exerany,hlthplan,smoke100,height,weight,wtdesire,age,gender
+2-good,recent,insured,nonsmoker,70,180,170,44,male
+1-fair,recent,uninsured,nonsmoker,69,170,170,23,male
+3-very good,recent,insured,nonsmoker,69,200,150,48,female
+3-very good,recent,insured,nonsmoker,67,166,160,74,male
+2-good,recent,insured,smoker,68,185,160,67,male
+3-very good,recent,insured,smoker,65,124,118,52,female
+3-very good,recent,insured,nonsmoker,66,143,130,45,female
+4-excellent,recent,uninsured,nonsmoker,64,118,118,35,female
+0-poor,recent,insured,smoker,62,140,130,64,female
+3-very good,recent,insured,nonsmoker,68,155,140,37,male
+2-good,recent,insured,smoker,73,205,200,52,male
+4-excellent,recent,insured,smoker,64,130,125,28,female
+4-excellent,recent,insured,smoker,71,180,180,24,male
+2-good,recent,insured,smoker,64,190,140,20,female
+2-good,recent,insured,smoker,61,170,130,43,female
+3-very good,recent,insured,smoker,68,190,150,53,female
+3-very good,recent,insured,nonsmoker,66,145,140,61,male
+4-excellent,recent,insured,nonsmoker,66,130,127,54,female
+3-very good,recent,insured,smoker,72,150,160,62,male
+3-very good,recent,insured,nonsmoker,65,160,145,40,male
+3-very good,recent,insured,nonsmoker,72,133,138,32,male
+2-good,recent,insured,nonsmoker,70,185,185,40,male
+2-good,not recent,insured,smoker,68,210,140,41,female
+1-fair,not recent,insured,nonsmoker,60,220,200,49,male
+2-good,recent,insured,smoker,71,180,180,67,male
+1-fair,not recent,insured,nonsmoker,73,180,180,83,male
+4-excellent,recent,insured,smoker,72,170,170,45,male
+2-good,recent,insured,nonsmoker,65,195,150,44,female
+4-excellent,not recent,insured,nonsmoker,64,125,120,48,female
+3-very good,recent,insured,nonsmoker,67,132,127,32,female
+3-very good,recent,uninsured,nonsmoker,70,180,170,45,male
+2-good,recent,uninsured,nonsmoker,65,150,130,39,female
+2-good,recent,insured,nonsmoker,66,111,119,46,female
+2-good,recent,uninsured,smoker,66,154,170,36,male
+2-good,recent,insured,smoker,68,250,150,35,female
+1-fair,recent,uninsured,smoker,64,230,170,30,female
+1-fair,recent,uninsured,smoker,71,145,160,25,male
+3-very good,recent,insured,nonsmoker,62,110,110,33,female
+3-very good,recent,uninsured,nonsmoker,67,180,130,18,female
+4-excellent,recent,insured,nonsmoker,63,140,135,53,female
+4-excellent,recent,insured,smoker,63,125,120,78,female
+3-very good,recent,insured,nonsmoker,68,165,165,46,male
+2-good,not recent,insured,smoker,66,185,145,58,female
+3-very good,not recent,insured,nonsmoker,66,134,125,33,female
+1-fair,recent,uninsured,nonsmoker,65,170,160,26,male
+2-good,not recent,insured,nonsmoker,64,180,150,32,female
+3-very good,recent,insured,smoker,72,145,170,85,male
+4-excellent,recent,insured,nonsmoker,63,140,130,41,female
+2-good,recent,insured,smoker,69,168,168,76,male
+2-good,recent,insured,nonsmoker,68,170,150,31,male
+2-good,recent,uninsured,nonsmoker,64,200,150,27,female
+1-fair,recent,insured,nonsmoker,59,112,107,60,female
+4-excellent,recent,insured,smoker,66,135,120,31,female
+2-good,not recent,insured,smoker,66,158,158,26,male
+4-excellent,recent,uninsured,nonsmoker,73,164,160,24,male
+3-very good,recent,insured,nonsmoker,65,150,144,78,male
+4-excellent,recent,uninsured,smoker,69,190,190,32,male
+2-good,recent,insured,nonsmoker,67,150,150,26,male
+4-excellent,recent,insured,nonsmoker,68,165,170,28,male
+4-excellent,not recent,uninsured,smoker,67,135,135,50,male
+3-very good,recent,insured,nonsmoker,66,145,145,41,male
+2-good,recent,insured,smoker,66,155,130,38,female
+2-good,recent,insured,nonsmoker,73,270,240,50,male
+4-excellent,not recent,insured,nonsmoker,68,195,160,50,female
+2-good,recent,insured,nonsmoker,74,280,230,36,male
+3-very good,recent,insured,smoker,71,172,172,67,male
+2-good,recent,uninsured,nonsmoker,60,160,130,37,female
+1-fair,not recent,uninsured,smoker,74,230,200,23,male
+2-good,recent,insured,nonsmoker,63,130,120,46,female
+3-very good,recent,uninsured,smoker,66,170,140,40,female
+3-very good,recent,insured,nonsmoker,64,170,150,18,female
+4-excellent,recent,insured,nonsmoker,77,180,195,23,male
+0-poor,recent,insured,nonsmoker,70,175,175,50,male
+0-poor,recent,insured,smoker,71,170,170,81,male
+4-excellent,recent,insured,smoker,61,120,110,34,female
+4-excellent,recent,insured,nonsmoker,67,138,130,44,female
+3-very good,recent,insured,smoker,63,160,125,66,female
+4-excellent,recent,insured,nonsmoker,72,210,190,51,male
+2-good,recent,insured,smoker,67,182,162,34,male
+2-good,recent,uninsured,smoker,72,185,185,24,male
+4-excellent,not recent,uninsured,smoker,60,108,108,24,female
+2-good,recent,insured,nonsmoker,66,134,134,34,female
+4-excellent,recent,insured,smoker,67,192,180,62,male
+3-very good,recent,insured,smoker,62,115,115,62,female
+3-very good,recent,insured,nonsmoker,68,165,160,37,male
+3-very good,recent,uninsured,nonsmoker,69,150,160,26,male
+3-very good,recent,insured,smoker,73,260,210,55,male
+3-very good,recent,insured,smoker,71,157,150,49,male
+4-excellent,recent,insured,smoker,70,178,170,44,male
+3-very good,not recent,uninsured,nonsmoker,69,153,160,51,male
+3-very good,recent,insured,smoker,69,167,167,27,male
+3-very good,not recent,insured,smoker,63,115,110,45,female
+2-good,recent,insured,nonsmoker,73,176,160,81,male
+4-excellent,recent,insured,nonsmoker,64,140,130,29,female
+1-fair,recent,insured,nonsmoker,63,145,125,40,female
+3-very good,not recent,insured,nonsmoker,66,190,150,29,female
+4-excellent,recent,insured,smoker,69,150,135,26,female
+3-very good,recent,uninsured,nonsmoker,63,154,135,20,female
+4-excellent,recent,insured,nonsmoker,64,136,130,36,female
+2-good,recent,uninsured,nonsmoker,61,130,120,30,female
+2-good,not recent,insured,smoker,59,105,105,71,female
+2-good,recent,insured,nonsmoker,72,225,200,33,male
+2-good,not recent,insured,smoker,64,160,120,57,female
+3-very good,recent,insured,nonsmoker,62,160,135,39,female
+4-excellent,not recent,insured,smoker,69,220,200,28,male
+0-poor,not recent,insured,smoker,76,155,185,60,male
+3-very good,not recent,insured,smoker,71,230,215,46,male
+4-excellent,not recent,insured,nonsmoker,66,155,155,56,female
+3-very good,recent,uninsured,nonsmoker,71,175,175,47,male
+2-good,recent,insured,smoker,64,125,120,68,female
+3-very good,not recent,insured,nonsmoker,62,160,125,63,female
+2-good,not recent,insured,nonsmoker,66,115,122,44,female
+3-very good,recent,insured,smoker,65,160,135,48,female
+1-fair,not recent,uninsured,smoker,59,190,120,35,female
+4-excellent,recent,insured,nonsmoker,69,200,180,19,male
+4-excellent,recent,insured,nonsmoker,64,121,115,30,female
+0-poor,recent,insured,smoker,70,150,165,49,male
+4-excellent,recent,insured,nonsmoker,65,142,142,59,male
+2-good,recent,insured,nonsmoker,60,110,105,61,female
+4-excellent,recent,insured,smoker,66,160,145,39,female
+3-very good,recent,insured,smoker,71,206,190,75,male
+4-excellent,recent,insured,smoker,74,225,220,55,male
+2-good,not recent,insured,nonsmoker,66,240,140,60,female
+1-fair,recent,insured,smoker,67,176,176,45,male
+3-very good,recent,insured,smoker,73,180,180,67,male
+1-fair,not recent,insured,nonsmoker,68,230,160,19,female
+4-excellent,recent,insured,nonsmoker,64,120,120,29,female
+3-very good,recent,insured,smoker,74,190,190,41,male
+4-excellent,recent,insured,nonsmoker,67,135,128,58,female
+3-very good,recent,insured,smoker,66,150,130,43,female
+2-good,recent,insured,smoker,70,185,168,61,male
+3-very good,recent,insured,smoker,66,125,125,49,female
+2-good,recent,insured,nonsmoker,67,185,185,43,female
+2-good,recent,insured,smoker,67,200,200,45,male
+4-excellent,recent,insured,smoker,70,203,193,43,male
+4-excellent,recent,insured,nonsmoker,68,165,165,42,male
+4-excellent,not recent,insured,nonsmoker,71,205,190,61,male
+2-good,recent,insured,nonsmoker,60,126,122,55,female
+2-good,not recent,uninsured,smoker,64,190,140,25,female
+4-excellent,recent,insured,smoker,63,115,115,49,female
+3-very good,recent,insured,nonsmoker,62,125,115,54,female
+2-good,recent,insured,smoker,73,193,185,69,male
+4-excellent,recent,insured,nonsmoker,74,185,185,34,male
+4-excellent,recent,uninsured,smoker,63,130,130,25,male
+2-good,recent,insured,nonsmoker,67,150,130,45,female
+4-excellent,recent,insured,nonsmoker,68,160,160,36,male
+4-excellent,recent,insured,nonsmoker,67,250,160,20,female
+2-good,recent,insured,nonsmoker,64,170,120,26,female
+3-very good,recent,uninsured,nonsmoker,62,110,110,22,female
+3-very good,recent,uninsured,smoker,73,200,215,22,male
+2-good,not recent,insured,nonsmoker,70,255,210,45,male
+4-excellent,not recent,insured,nonsmoker,60,110,110,40,female
+3-very good,not recent,insured,smoker,66,200,150,41,female
+3-very good,recent,insured,smoker,68,195,165,70,male
+2-good,not recent,uninsured,nonsmoker,68,130,150,26,male
+3-very good,not recent,insured,nonsmoker,58,155,155,79,female
+3-very good,not recent,insured,smoker,70,160,150,67,male
+3-very good,recent,insured,nonsmoker,67,180,160,26,male
+2-good,recent,insured,smoker,72,185,190,54,male
+2-good,recent,insured,nonsmoker,57,170,150,67,female
+3-very good,recent,insured,nonsmoker,65,140,130,26,female
+1-fair,not recent,insured,smoker,62,158,135,75,female
+2-good,recent,insured,nonsmoker,64,135,125,23,female
+2-good,recent,insured,nonsmoker,72,240,200,24,male
+3-very good,not recent,insured,nonsmoker,69,140,130,20,female
+4-excellent,recent,insured,nonsmoker,73,193,205,23,male
+3-very good,recent,insured,nonsmoker,66,180,170,30,male
+3-very good,recent,insured,smoker,63,130,120,66,female
+4-excellent,recent,insured,smoker,68,140,130,23,female
+2-good,recent,insured,smoker,69,140,130,21,female
+4-excellent,recent,insured,nonsmoker,67,125,125,41,female
+3-very good,recent,insured,nonsmoker,69,135,120,41,female
+4-excellent,recent,insured,nonsmoker,73,240,220,38,male
+3-very good,recent,insured,smoker,66,220,200,19,male
+2-good,recent,insured,smoker,74,210,190,52,male
+3-very good,recent,insured,nonsmoker,75,225,205,32,male
+1-fair,recent,insured,nonsmoker,67,154,154,18,female
+1-fair,recent,insured,smoker,72,300,200,46,male
+4-excellent,not recent,insured,nonsmoker,68,115,120,40,male
+4-excellent,recent,insured,nonsmoker,67,123,135,35,female
+4-excellent,recent,insured,smoker,71,180,180,31,male
+3-very good,not recent,insured,nonsmoker,64,170,130,29,female
+3-very good,recent,insured,nonsmoker,68,176,165,53,male
+4-excellent,recent,insured,nonsmoker,72,195,190,70,male
+4-excellent,recent,insured,nonsmoker,71,175,175,39,male
+3-very good,recent,uninsured,smoker,71,145,160,21,male
+2-good,recent,insured,smoker,72,210,190,48,male
+3-very good,recent,insured,smoker,69,171,171,25,male
+4-excellent,recent,insured,smoker,68,145,145,29,male
+2-good,not recent,insured,smoker,63,100,100,37,female
+2-good,not recent,insured,nonsmoker,66,198,140,24,female
+2-good,recent,uninsured,smoker,61,135,120,40,female
+3-very good,not recent,uninsured,smoker,64,132,125,31,female
+3-very good,recent,insured,smoker,73,190,180,58,male
+4-excellent,recent,uninsured,smoker,67,130,157,54,male
+0-poor,not recent,uninsured,smoker,64,159,159,44,male
+3-very good,recent,insured,nonsmoker,72,200,210,25,male
+2-good,recent,insured,nonsmoker,76,160,160,18,male
+1-fair,recent,insured,smoker,63,110,110,68,female
+4-excellent,recent,insured,nonsmoker,70,180,180,32,male
+3-very good,recent,insured,nonsmoker,62,115,110,30,female
+3-very good,not recent,insured,nonsmoker,65,170,150,70,female
+3-very good,recent,insured,nonsmoker,70,170,165,69,male
+2-good,recent,insured,nonsmoker,63,140,120,45,female
+3-very good,not recent,insured,nonsmoker,69,175,165,58,male
+1-fair,recent,insured,smoker,71,165,175,30,male
+2-good,recent,insured,nonsmoker,69,190,190,19,male
+1-fair,not recent,insured,nonsmoker,63,127,127,31,female
+3-very good,recent,insured,smoker,74,170,170,20,male
+4-excellent,not recent,insured,nonsmoker,66,158,130,32,female
+4-excellent,recent,insured,nonsmoker,70,220,180,50,male
+2-good,recent,insured,smoker,67,185,130,47,female
+2-good,not recent,insured,smoker,73,164,190,48,male
+4-excellent,recent,insured,nonsmoker,68,145,145,86,female
+1-fair,not recent,uninsured,nonsmoker,67,200,180,36,male
+4-excellent,recent,insured,nonsmoker,67,175,175,51,male
+3-very good,recent,insured,nonsmoker,63,160,150,42,female
+3-very good,recent,insured,nonsmoker,68,140,140,20,male
+3-very good,recent,insured,nonsmoker,59,170,135,40,female
+3-very good,recent,insured,nonsmoker,66,130,120,24,female
+2-good,recent,insured,nonsmoker,70,240,185,28,male
+4-excellent,recent,insured,smoker,65,135,130,39,female
+3-very good,recent,insured,nonsmoker,60,135,125,36,female
+4-excellent,recent,uninsured,nonsmoker,72,165,175,21,male
+1-fair,not recent,insured,nonsmoker,65,119,119,75,female
+3-very good,recent,insured,smoker,62,145,145,67,female
+1-fair,recent,insured,smoker,73,200,180,30,male
+3-very good,not recent,insured,nonsmoker,62,105,105,73,female
+2-good,recent,insured,nonsmoker,67,175,135,45,female
+4-excellent,recent,insured,nonsmoker,72,220,215,39,male
+1-fair,recent,uninsured,smoker,70,210,185,44,male
+3-very good,recent,uninsured,smoker,70,170,170,24,male
+2-good,recent,insured,smoker,69,170,170,37,male
+2-good,recent,insured,nonsmoker,67,184,165,74,male
+3-very good,recent,insured,smoker,67,162,145,69,female
+3-very good,recent,insured,smoker,62,150,130,35,female
+3-very good,recent,insured,smoker,73,160,160,36,male
+3-very good,recent,insured,smoker,67,165,165,50,male
+2-good,recent,insured,nonsmoker,63,110,107,27,female
+1-fair,not recent,insured,smoker,65,133,130,72,female
+1-fair,not recent,insured,smoker,75,186,186,78,male
+4-excellent,recent,insured,smoker,65,130,125,43,female
+4-excellent,not recent,uninsured,nonsmoker,67,168,168,31,female
+3-very good,recent,insured,nonsmoker,69,165,165,40,male
+4-excellent,recent,insured,nonsmoker,72,195,195,24,male
+4-excellent,recent,insured,nonsmoker,67,132,127,27,female
+4-excellent,recent,insured,nonsmoker,63,131,120,37,female
+2-good,not recent,insured,smoker,65,165,150,46,male
+3-very good,recent,insured,nonsmoker,65,185,140,39,female
+1-fair,recent,insured,nonsmoker,65,160,130,66,female
+2-good,recent,insured,smoker,72,193,183,63,male
+3-very good,recent,insured,smoker,68,150,150,31,male
+4-excellent,recent,insured,nonsmoker,72,180,180,80,male
+1-fair,not recent,insured,nonsmoker,65,200,160,77,female
+2-good,recent,insured,smoker,65,200,150,42,female
+2-good,not recent,insured,nonsmoker,72,180,165,27,male
+4-excellent,recent,uninsured,smoker,66,170,150,35,female
+2-good,not recent,uninsured,nonsmoker,69,234,234,24,male
+3-very good,not recent,insured,nonsmoker,67,140,140,41,female
+2-good,not recent,insured,nonsmoker,64,110,110,32,female
+0-poor,not recent,insured,smoker,63,123,110,83,female
+1-fair,recent,insured,nonsmoker,62,185,130,55,female
+2-good,recent,insured,smoker,60,110,110,44,female
+2-good,recent,insured,smoker,71,185,175,53,male
+2-good,recent,insured,nonsmoker,74,210,200,44,male
+4-excellent,recent,insured,nonsmoker,64,140,120,35,female
+2-good,not recent,uninsured,smoker,65,150,150,59,male
+4-excellent,recent,uninsured,nonsmoker,64,190,150,56,female
+2-good,not recent,insured,nonsmoker,74,250,250,18,male
+2-good,not recent,insured,nonsmoker,71,210,190,40,male
+0-poor,recent,uninsured,smoker,70,135,135,20,female
+4-excellent,not recent,insured,smoker,65,115,115,27,female
+4-excellent,recent,insured,smoker,75,200,195,28,male
+2-good,recent,insured,nonsmoker,66,153,153,72,male
+2-good,recent,insured,smoker,66,188,150,52,female
+2-good,not recent,uninsured,smoker,59,130,125,47,male
+3-very good,recent,insured,smoker,65,180,150,52,female
+3-very good,recent,insured,smoker,67,170,155,39,male
+4-excellent,not recent,insured,smoker,67,140,145,40,female
+2-good,recent,insured,smoker,67,125,110,22,female
+3-very good,recent,uninsured,nonsmoker,71,204,210,20,male
+2-good,recent,insured,smoker,62,200,150,46,female
+4-excellent,not recent,uninsured,nonsmoker,71,235,180,52,male
+2-good,recent,insured,smoker,69,173,165,53,male
+3-very good,not recent,uninsured,smoker,70,170,190,26,male
+1-fair,recent,uninsured,smoker,66,108,120,49,female
+2-good,recent,insured,nonsmoker,64,158,123,29,female
+4-excellent,recent,insured,nonsmoker,63,115,100,43,female
+2-good,recent,insured,smoker,68,225,200,56,male
+4-excellent,recent,insured,nonsmoker,63,125,115,40,female
+2-good,recent,insured,nonsmoker,72,310,250,25,male
+2-good,not recent,uninsured,smoker,60,145,127,19,female
+3-very good,recent,insured,nonsmoker,69,175,170,19,male
+2-good,recent,insured,smoker,73,180,180,60,male
+4-excellent,not recent,uninsured,nonsmoker,67,180,150,60,female
+3-very good,recent,insured,smoker,70,163,170,41,male
+1-fair,recent,insured,smoker,76,210,210,64,male
+1-fair,not recent,uninsured,smoker,75,300,250,64,male
+4-excellent,recent,insured,nonsmoker,66,172,172,23,male
+2-good,not recent,insured,nonsmoker,74,300,200,36,male
+2-good,recent,insured,smoker,66,165,140,41,female
+4-excellent,recent,uninsured,smoker,72,200,185,22,male
+3-very good,recent,insured,smoker,66,135,135,64,male
+2-good,recent,insured,nonsmoker,60,165,130,31,female
+1-fair,not recent,uninsured,smoker,62,145,120,31,male
+2-good,recent,uninsured,smoker,68,155,155,41,male
+3-very good,recent,insured,smoker,63,150,135,66,female
+3-very good,recent,insured,smoker,69,165,155,42,female
+1-fair,not recent,insured,smoker,62,175,155,83,female
+4-excellent,recent,insured,nonsmoker,64,134,134,40,male
+2-good,not recent,insured,nonsmoker,67,220,98,29,female
+3-very good,recent,insured,smoker,66,160,120,38,female
+2-good,not recent,uninsured,smoker,64,142,125,37,female
+4-excellent,recent,insured,nonsmoker,65,150,135,52,female
+3-very good,not recent,insured,nonsmoker,71,175,165,36,male
+2-good,recent,insured,nonsmoker,69,205,180,36,male
+2-good,not recent,uninsured,nonsmoker,70,190,170,29,male
+4-excellent,recent,insured,nonsmoker,75,245,215,45,male
+4-excellent,recent,insured,nonsmoker,65,126,126,58,female
+2-good,recent,insured,nonsmoker,63,130,120,46,female
+3-very good,recent,insured,nonsmoker,64,110,110,21,female
+2-good,not recent,insured,nonsmoker,69,180,180,53,male
+2-good,recent,insured,smoker,71,200,180,55,male
+1-fair,recent,insured,smoker,70,155,170,74,male
+3-very good,not recent,insured,smoker,63,140,120,36,female
+3-very good,recent,insured,nonsmoker,66,110,110,21,female
+1-fair,recent,insured,smoker,69,192,190,62,male
+3-very good,recent,insured,nonsmoker,64,136,115,31,female
+2-good,not recent,insured,smoker,62,185,140,71,female
+0-poor,not recent,insured,smoker,71,145,210,33,male
+3-very good,recent,uninsured,nonsmoker,70,154,150,21,male
+4-excellent,recent,insured,nonsmoker,71,192,182,68,male
+3-very good,not recent,insured,nonsmoker,71,175,175,35,male
+3-very good,not recent,insured,smoker,66,165,165,52,male
+0-poor,recent,uninsured,nonsmoker,61,134,134,56,female
+3-very good,recent,insured,smoker,66,145,130,65,female
+2-good,not recent,insured,smoker,64,160,130,82,female
+3-very good,recent,insured,smoker,75,220,205,43,male
+2-good,recent,uninsured,nonsmoker,60,176,140,46,female
+4-excellent,recent,insured,nonsmoker,70,165,160,35,male
+2-good,recent,insured,smoker,71,170,170,23,male
+4-excellent,recent,uninsured,nonsmoker,63,120,120,52,female
+3-very good,not recent,uninsured,smoker,71,165,165,36,male
+2-good,not recent,insured,smoker,71,230,215,52,male
+3-very good,recent,uninsured,smoker,68,250,200,21,female
+1-fair,not recent,uninsured,nonsmoker,62,150,140,39,female
+1-fair,not recent,insured,smoker,71,189,189,53,male
+4-excellent,not recent,insured,nonsmoker,62,110,106,52,female
+3-very good,recent,insured,nonsmoker,67,165,160,54,male
+1-fair,recent,insured,nonsmoker,75,215,220,23,male
+3-very good,recent,insured,smoker,57,160,120,32,female
+3-very good,recent,insured,smoker,70,162,162,79,female
+3-very good,recent,insured,nonsmoker,61,117,114,53,female
+3-very good,recent,insured,nonsmoker,70,155,155,18,male
+2-good,recent,insured,nonsmoker,70,160,155,42,male
+1-fair,recent,insured,smoker,69,182,182,29,male
+4-excellent,recent,insured,nonsmoker,66,180,135,37,female
+3-very good,not recent,insured,smoker,62,130,120,81,female
+2-good,not recent,insured,smoker,63,120,120,66,female
+3-very good,recent,insured,smoker,68,165,165,40,male
+4-excellent,recent,insured,nonsmoker,70,190,170,32,male
+2-good,recent,insured,nonsmoker,66,145,140,54,male
+3-very good,not recent,insured,smoker,61,98,98,43,female
+3-very good,recent,insured,smoker,65,146,130,42,male
+3-very good,not recent,insured,nonsmoker,66,200,160,33,female
+2-good,recent,insured,nonsmoker,70,300,190,39,male
+2-good,recent,insured,smoker,69,155,185,46,male
+2-good,not recent,insured,nonsmoker,61,127,120,40,female
+2-good,not recent,insured,nonsmoker,68,236,155,45,female
+4-excellent,recent,insured,nonsmoker,67,133,130,47,female
+3-very good,recent,insured,nonsmoker,62,142,128,70,female
+1-fair,not recent,insured,nonsmoker,70,179,169,26,female
+0-poor,recent,insured,nonsmoker,70,145,145,30,male
+1-fair,recent,insured,smoker,65,140,140,38,female
+2-good,recent,insured,smoker,71,150,165,50,male
+3-very good,recent,insured,nonsmoker,69,170,170,28,male
+3-very good,recent,insured,nonsmoker,64,167,140,56,female
+3-very good,recent,insured,smoker,65,175,175,29,male
+2-good,recent,insured,smoker,74,209,209,74,male
+3-very good,recent,insured,nonsmoker,62,118,105,22,female
+1-fair,not recent,insured,nonsmoker,61,100,110,19,female
+2-good,recent,insured,nonsmoker,66,168,164,54,male
+2-good,recent,insured,nonsmoker,69,220,220,74,male
+1-fair,not recent,insured,nonsmoker,60,140,125,68,female
+3-very good,recent,insured,nonsmoker,64,130,122,26,female
+4-excellent,not recent,insured,smoker,70,160,175,23,male
+4-excellent,recent,insured,smoker,62,130,128,58,female
+3-very good,recent,insured,nonsmoker,68,177,170,23,male
+3-very good,not recent,insured,smoker,72,245,200,34,male
+4-excellent,recent,insured,smoker,74,245,200,46,male
+4-excellent,recent,insured,smoker,69,178,178,37,male
+3-very good,recent,insured,smoker,70,158,158,68,male
+3-very good,recent,insured,nonsmoker,70,195,185,54,male
+3-very good,recent,insured,nonsmoker,72,195,185,53,male
+2-good,recent,insured,smoker,64,158,135,65,female
+3-very good,not recent,insured,smoker,67,148,148,70,male
+3-very good,recent,insured,smoker,68,162,145,45,female
+4-excellent,recent,insured,smoker,69,160,150,67,female
+3-very good,recent,insured,smoker,69,200,200,50,male
+1-fair,recent,insured,nonsmoker,73,230,210,55,male
+1-fair,recent,insured,smoker,67,215,185,80,male
+4-excellent,recent,uninsured,smoker,61,126,110,20,female
+4-excellent,not recent,uninsured,nonsmoker,69,170,165,33,female
+4-excellent,recent,insured,smoker,64,121,121,55,female
+4-excellent,recent,insured,smoker,69,161,161,62,male
+2-good,not recent,insured,smoker,68,195,160,56,male
+1-fair,recent,uninsured,nonsmoker,72,130,130,22,female
+2-good,not recent,insured,nonsmoker,63,190,125,85,female
+1-fair,not recent,insured,nonsmoker,62,240,135,80,female
+1-fair,recent,insured,smoker,61,93,93,38,female
+3-very good,not recent,insured,nonsmoker,69,250,180,51,female
+3-very good,recent,insured,nonsmoker,64,125,115,29,female
+2-good,recent,insured,smoker,66,150,150,51,female
+2-good,recent,uninsured,nonsmoker,63,165,165,35,male
+3-very good,recent,insured,smoker,65,168,140,44,female
+1-fair,recent,insured,nonsmoker,70,194,179,58,male
+4-excellent,recent,insured,nonsmoker,77,220,205,39,male
+2-good,not recent,insured,smoker,71,170,170,47,male
+4-excellent,recent,uninsured,smoker,64,120,110,33,female
+2-good,recent,insured,nonsmoker,69,155,155,57,male
+3-very good,recent,uninsured,smoker,66,150,200,23,male
+1-fair,not recent,insured,smoker,68,192,180,67,male
+2-good,recent,insured,smoker,64,146,146,76,female
+4-excellent,not recent,insured,nonsmoker,73,165,180,26,male
+3-very good,recent,insured,nonsmoker,66,158,160,35,male
+3-very good,recent,insured,smoker,64,218,155,34,female
+3-very good,recent,insured,smoker,67,134,125,20,female
+2-good,recent,insured,smoker,70,245,200,41,female
+2-good,not recent,insured,smoker,73,230,215,41,male
+4-excellent,recent,insured,nonsmoker,62,110,105,23,female
+3-very good,recent,insured,smoker,75,275,275,36,male
+2-good,recent,insured,smoker,72,285,240,36,male
+3-very good,not recent,insured,nonsmoker,65,126,130,36,female
+2-good,recent,insured,nonsmoker,67,138,138,62,female
+2-good,recent,insured,smoker,70,175,175,65,male
+1-fair,recent,insured,smoker,69,180,140,53,female
+4-excellent,recent,uninsured,nonsmoker,68,144,144,18,male
+4-excellent,recent,uninsured,nonsmoker,73,180,180,51,male
+3-very good,not recent,insured,smoker,60,200,140,50,female
+2-good,recent,insured,smoker,74,150,150,22,male
+2-good,recent,insured,smoker,68,155,149,82,male
+3-very good,recent,insured,smoker,71,170,170,28,male
+1-fair,recent,insured,smoker,70,190,190,40,male
+3-very good,not recent,insured,nonsmoker,74,210,185,52,male
+4-excellent,recent,insured,smoker,64,150,125,40,female
+2-good,recent,insured,smoker,65,165,150,52,male
+3-very good,recent,insured,smoker,62,140,120,63,female
+3-very good,recent,insured,nonsmoker,70,178,174,40,male
+2-good,not recent,insured,smoker,72,190,190,67,male
+1-fair,recent,insured,smoker,73,210,185,29,male
+4-excellent,recent,insured,smoker,71,250,220,25,male
+2-good,recent,insured,smoker,73,200,175,32,male
+3-very good,recent,insured,nonsmoker,63,182,175,60,female
+3-very good,recent,insured,nonsmoker,63,140,135,73,female
+3-very good,recent,insured,smoker,70,183,175,35,male
+3-very good,recent,insured,nonsmoker,71,180,175,40,male
+2-good,not recent,uninsured,smoker,72,180,180,40,male
+3-very good,not recent,insured,nonsmoker,64,124,124,36,female
+1-fair,recent,insured,smoker,69,200,170,60,male
+4-excellent,recent,insured,nonsmoker,68,130,130,34,female
+2-good,not recent,insured,smoker,70,210,160,39,male
+0-poor,not recent,insured,nonsmoker,69,235,220,50,male
+4-excellent,recent,insured,nonsmoker,65,114,114,24,female
+2-good,recent,insured,smoker,76,180,180,18,male
+2-good,recent,insured,nonsmoker,61,145,135,81,female
+3-very good,recent,insured,nonsmoker,68,149,140,45,male
+1-fair,recent,insured,smoker,69,170,150,21,female
+4-excellent,recent,insured,nonsmoker,71,172,172,40,male
+1-fair,recent,insured,nonsmoker,62,130,130,61,female
+1-fair,not recent,uninsured,smoker,69,195,190,22,male
+2-good,recent,insured,smoker,64,155,135,56,female
+2-good,recent,insured,smoker,70,270,220,70,male
+2-good,recent,insured,smoker,70,250,200,40,male
+0-poor,recent,uninsured,nonsmoker,56,114,120,32,female
+3-very good,not recent,insured,nonsmoker,66,180,140,54,female
+3-very good,recent,insured,nonsmoker,63,208,150,40,female
+2-good,not recent,insured,smoker,71,175,175,30,male
+4-excellent,recent,insured,nonsmoker,66,145,150,35,male
+2-good,recent,insured,nonsmoker,65,147,147,24,female
+2-good,not recent,insured,nonsmoker,67,145,145,41,male
+2-good,recent,insured,smoker,73,190,195,22,male
+1-fair,recent,insured,nonsmoker,69,195,170,64,male
+2-good,recent,uninsured,nonsmoker,69,165,165,34,male
+3-very good,not recent,insured,nonsmoker,60,115,115,18,female
+4-excellent,recent,insured,smoker,66,115,102,43,female
+3-very good,not recent,insured,smoker,66,257,180,33,female
+4-excellent,recent,insured,smoker,69,178,155,33,female
+4-excellent,recent,insured,nonsmoker,63,152,142,67,female
+0-poor,not recent,insured,nonsmoker,63,187,150,46,female
+4-excellent,recent,insured,nonsmoker,62,122,115,58,female
+3-very good,recent,insured,nonsmoker,65,180,180,32,female
+2-good,not recent,uninsured,smoker,63,125,100,23,female
+1-fair,not recent,uninsured,nonsmoker,66,136,136,25,female
+3-very good,recent,insured,nonsmoker,63,117,110,53,female
+3-very good,recent,uninsured,smoker,70,155,155,36,male
+3-very good,recent,insured,nonsmoker,71,195,185,45,male
+3-very good,recent,insured,smoker,68,145,135,21,female
+4-excellent,recent,insured,smoker,67,142,139,44,female
+4-excellent,recent,uninsured,smoker,76,172,185,44,male
+4-excellent,recent,uninsured,nonsmoker,67,133,132,38,male
+4-excellent,recent,uninsured,nonsmoker,66,125,120,27,female
+3-very good,recent,insured,smoker,73,290,601,56,male
+2-good,recent,insured,nonsmoker,62,135,125,62,female
+3-very good,recent,insured,nonsmoker,69,180,170,39,male
+4-excellent,recent,insured,smoker,71,215,200,56,male
+2-good,recent,uninsured,smoker,67,210,200,21,male
+4-excellent,recent,insured,nonsmoker,66,175,140,50,female
+3-very good,recent,uninsured,smoker,70,127,140,26,male
+2-good,recent,uninsured,smoker,64,150,130,27,female
+3-very good,recent,uninsured,smoker,73,205,190,26,male
+4-excellent,recent,insured,smoker,69,162,162,70,male
+2-good,recent,insured,smoker,63,103,100,49,female
+1-fair,not recent,insured,nonsmoker,62,164,130,25,female
+2-good,not recent,insured,smoker,72,220,210,58,male
+2-good,not recent,insured,nonsmoker,71,185,185,45,male
+2-good,recent,insured,smoker,60,130,130,97,female
+3-very good,recent,insured,smoker,62,138,125,35,female
+4-excellent,recent,insured,nonsmoker,74,205,200,50,male
+3-very good,not recent,insured,smoker,61,114,120,81,female
+4-excellent,recent,uninsured,smoker,71,188,175,53,male
+2-good,not recent,insured,smoker,65,200,160,45,female
+4-excellent,not recent,uninsured,smoker,60,112,112,30,female
+2-good,recent,insured,smoker,69,185,160,28,male
+4-excellent,recent,insured,nonsmoker,64,155,155,50,female
+4-excellent,recent,insured,smoker,67,135,130,30,female
+2-good,recent,insured,nonsmoker,70,170,170,40,male
+3-very good,recent,insured,smoker,65,138,126,66,female
+2-good,recent,insured,nonsmoker,74,195,185,21,male
+2-good,recent,insured,smoker,72,185,160,59,male
+2-good,recent,insured,nonsmoker,71,175,175,51,male
+3-very good,recent,insured,smoker,74,222,210,32,male
+4-excellent,recent,insured,nonsmoker,71,205,190,43,male
+3-very good,not recent,insured,nonsmoker,75,260,220,49,male
+2-good,not recent,insured,nonsmoker,59,116,110,71,female
+2-good,not recent,uninsured,nonsmoker,69,162,150,32,female
+3-very good,recent,insured,nonsmoker,70,176,170,69,male
+4-excellent,recent,insured,smoker,63,145,135,40,female
+2-good,recent,insured,smoker,69,220,200,24,male
+3-very good,recent,insured,nonsmoker,72,220,200,47,male
+2-good,recent,insured,smoker,65,120,125,20,female
+4-excellent,recent,insured,nonsmoker,66,230,130,46,female
+1-fair,recent,insured,nonsmoker,59,145,135,71,female
+4-excellent,not recent,uninsured,smoker,65,145,145,44,male
+1-fair,not recent,uninsured,smoker,62,170,130,27,female
+2-good,recent,insured,nonsmoker,68,180,150,38,male
+4-excellent,recent,insured,nonsmoker,67,200,150,70,female
+4-excellent,recent,insured,nonsmoker,69,130,130,33,female
+2-good,recent,insured,nonsmoker,71,230,215,26,male
+2-good,recent,uninsured,nonsmoker,65,120,115,23,female
+2-good,recent,uninsured,nonsmoker,66,168,168,33,male
+2-good,not recent,insured,smoker,62,225,120,59,female
+2-good,recent,insured,nonsmoker,65,190,145,29,female
+4-excellent,not recent,insured,nonsmoker,64,141,115,18,female
+1-fair,not recent,uninsured,nonsmoker,69,135,120,20,female
+4-excellent,not recent,insured,nonsmoker,68,145,140,47,male
+3-very good,recent,uninsured,nonsmoker,71,175,175,43,male
+3-very good,recent,uninsured,smoker,74,186,182,30,male
+4-excellent,recent,insured,nonsmoker,65,145,135,24,female
+3-very good,recent,insured,nonsmoker,64,180,145,24,female
+4-excellent,recent,insured,nonsmoker,59,160,125,75,female
+2-good,recent,insured,smoker,66,155,140,19,female
+2-good,recent,insured,smoker,62,180,130,43,female
+1-fair,recent,insured,smoker,72,163,175,24,male
+3-very good,not recent,insured,smoker,67,155,150,48,male
+1-fair,not recent,uninsured,smoker,63,110,120,37,female
+2-good,recent,insured,nonsmoker,65,280,185,57,male
+4-excellent,recent,insured,smoker,68,125,127,39,female
+4-excellent,recent,insured,nonsmoker,64,130,130,49,female
+2-good,not recent,uninsured,nonsmoker,64,133,130,23,female
+4-excellent,recent,insured,nonsmoker,74,160,140,18,male
+2-good,recent,uninsured,nonsmoker,70,165,165,23,male
+2-good,not recent,insured,nonsmoker,62,170,150,74,female
+3-very good,recent,insured,nonsmoker,60,164,130,33,female
+4-excellent,recent,insured,smoker,73,175,175,48,male
+2-good,not recent,insured,smoker,65,300,150,35,female
+4-excellent,recent,insured,nonsmoker,70,148,148,45,male
+2-good,recent,uninsured,nonsmoker,72,130,160,26,male
+2-good,recent,insured,nonsmoker,65,170,155,34,male
+2-good,not recent,insured,smoker,71,175,175,27,male
+3-very good,recent,insured,smoker,62,155,135,42,female
+3-very good,recent,insured,smoker,63,120,120,37,female
+2-good,recent,uninsured,smoker,70,180,170,48,male
+2-good,not recent,uninsured,nonsmoker,71,170,170,46,male
+4-excellent,recent,insured,smoker,66,160,140,79,female
+4-excellent,recent,insured,nonsmoker,62,117,117,33,female
+3-very good,recent,insured,nonsmoker,66,170,155,32,male
+3-very good,recent,insured,nonsmoker,65,161,148,41,male
+4-excellent,not recent,insured,smoker,61,115,115,38,female
+2-good,not recent,insured,nonsmoker,65,140,140,28,female
+4-excellent,recent,insured,smoker,63,130,120,20,female
+1-fair,recent,insured,smoker,72,205,190,58,male
+3-very good,recent,insured,nonsmoker,63,195,145,48,female
+3-very good,recent,insured,smoker,64,160,150,65,female
+2-good,recent,insured,smoker,74,165,165,23,male
+4-excellent,not recent,insured,nonsmoker,66,200,140,46,female
+2-good,not recent,insured,smoker,70,160,140,34,female
+1-fair,not recent,insured,nonsmoker,76,280,220,38,male
+3-very good,not recent,insured,nonsmoker,69,190,165,40,female
+1-fair,not recent,insured,nonsmoker,64,138,138,74,female
+4-excellent,not recent,uninsured,nonsmoker,68,168,165,37,male
+1-fair,recent,insured,nonsmoker,61,140,130,42,female
+4-excellent,recent,insured,nonsmoker,65,199,160,27,female
+3-very good,not recent,insured,nonsmoker,67,155,150,58,male
+4-excellent,recent,insured,smoker,72,210,195,43,male
+2-good,recent,uninsured,smoker,71,170,150,35,male
+3-very good,recent,insured,nonsmoker,76,200,200,38,male
+4-excellent,recent,insured,smoker,62,124,119,46,female
+4-excellent,recent,insured,smoker,64,120,120,70,female
+2-good,not recent,insured,smoker,64,135,125,22,female
+4-excellent,recent,insured,nonsmoker,74,175,175,20,male
+3-very good,not recent,insured,smoker,75,220,200,48,male
+2-good,recent,insured,smoker,62,185,150,72,female
+2-good,recent,insured,nonsmoker,70,185,175,55,male
+3-very good,recent,insured,smoker,68,160,155,72,male
+3-very good,recent,insured,nonsmoker,68,145,129,18,female
+3-very good,recent,insured,smoker,67,205,175,70,male
+3-very good,not recent,insured,nonsmoker,62,126,126,56,female
+2-good,recent,insured,smoker,76,240,220,43,male
+3-very good,recent,insured,nonsmoker,68,148,148,41,female
+3-very good,recent,insured,nonsmoker,62,160,160,21,female
+3-very good,recent,insured,nonsmoker,65,150,140,57,female
+3-very good,recent,insured,nonsmoker,77,280,225,43,male
+4-excellent,recent,insured,nonsmoker,74,220,210,48,male
+2-good,not recent,insured,smoker,65,145,145,23,female
+2-good,recent,uninsured,smoker,66,120,120,55,female
+3-very good,recent,insured,smoker,71,185,175,72,male
+2-good,recent,insured,smoker,71,210,200,57,male
+3-very good,recent,insured,nonsmoker,69,165,165,81,male
+3-very good,recent,insured,smoker,70,230,215,24,male
+3-very good,recent,insured,nonsmoker,69,160,150,39,female
+4-excellent,recent,insured,nonsmoker,70,175,175,36,male
+3-very good,recent,insured,nonsmoker,63,170,150,29,female
+3-very good,recent,insured,nonsmoker,62,125,122,41,female
+3-very good,recent,insured,nonsmoker,66,175,130,20,female
+1-fair,recent,insured,smoker,62,210,110,64,female
+4-excellent,recent,insured,nonsmoker,68,125,125,32,female
+4-excellent,recent,insured,smoker,67,135,145,28,male
+4-excellent,recent,insured,nonsmoker,63,137,130,69,female
+3-very good,recent,insured,nonsmoker,70,206,185,50,male
+2-good,recent,uninsured,smoker,74,165,200,18,male
+4-excellent,recent,insured,nonsmoker,73,175,190,35,male
+3-very good,recent,insured,nonsmoker,65,170,150,50,female
+3-very good,recent,insured,smoker,69,170,165,72,male
+1-fair,not recent,insured,nonsmoker,67,190,150,26,female
+2-good,recent,insured,nonsmoker,66,165,155,33,male
+4-excellent,recent,insured,smoker,70,180,180,31,male
+4-excellent,recent,insured,smoker,69,158,153,52,male
+1-fair,recent,insured,nonsmoker,71,195,185,48,male
+3-very good,not recent,uninsured,nonsmoker,61,126,125,19,female
+2-good,not recent,insured,nonsmoker,72,200,195,67,male
+2-good,not recent,insured,nonsmoker,61,170,145,65,female
+3-very good,recent,insured,nonsmoker,64,125,125,75,female
+4-excellent,recent,insured,nonsmoker,70,162,162,45,male
+4-excellent,recent,insured,nonsmoker,65,137,125,29,female
+4-excellent,recent,insured,nonsmoker,66,130,125,42,female
+0-poor,not recent,uninsured,nonsmoker,66,180,150,50,female
+2-good,recent,insured,smoker,71,180,180,37,male
+4-excellent,recent,insured,nonsmoker,67,150,150,36,male
+2-good,not recent,insured,smoker,70,187,185,32,male
+4-excellent,recent,insured,nonsmoker,72,180,170,36,male
+3-very good,recent,insured,nonsmoker,60,170,170,57,female
+1-fair,not recent,insured,smoker,71,200,185,68,male
+2-good,recent,insured,smoker,62,167,135,64,female
+2-good,recent,insured,nonsmoker,64,149,140,58,female
+3-very good,recent,insured,smoker,70,162,162,65,male
+4-excellent,not recent,uninsured,smoker,64,132,132,52,female
+4-excellent,recent,insured,nonsmoker,66,155,135,66,female
+3-very good,recent,insured,nonsmoker,67,175,150,50,female
+2-good,recent,insured,smoker,75,170,170,41,male
+2-good,not recent,insured,nonsmoker,71,250,200,39,male
+4-excellent,recent,insured,nonsmoker,77,240,225,32,male
+4-excellent,recent,insured,nonsmoker,65,118,118,48,female
+2-good,not recent,insured,nonsmoker,58,118,125,83,male
+2-good,recent,insured,nonsmoker,67,200,160,47,male
+0-poor,not recent,insured,smoker,73,215,190,54,male
+3-very good,not recent,insured,nonsmoker,71,270,220,52,male
+3-very good,recent,insured,nonsmoker,73,175,185,26,male
+2-good,recent,insured,nonsmoker,62,140,135,79,female
+3-very good,not recent,insured,smoker,70,135,135,31,male
+4-excellent,recent,insured,nonsmoker,61,170,160,38,female
+4-excellent,recent,insured,smoker,65,145,110,26,female
+2-good,recent,insured,smoker,69,150,140,71,female
+4-excellent,recent,insured,smoker,64,130,130,54,female
+3-very good,recent,insured,nonsmoker,67,116,116,35,female
+3-very good,recent,insured,smoker,66,167,140,67,female
+2-good,recent,insured,nonsmoker,70,160,165,29,male
+4-excellent,not recent,insured,nonsmoker,66,130,135,41,male
+4-excellent,recent,insured,nonsmoker,70,165,155,29,male
+3-very good,recent,insured,smoker,67,150,150,21,male
+2-good,recent,uninsured,smoker,69,165,165,49,male
+2-good,recent,insured,smoker,68,185,150,78,female
+2-good,recent,insured,nonsmoker,66,146,140,61,male
+3-very good,recent,insured,nonsmoker,64,155,145,46,male
+3-very good,not recent,insured,smoker,66,225,195,28,female
+2-good,recent,uninsured,smoker,64,145,120,50,female
+4-excellent,recent,uninsured,smoker,71,165,165,59,male
+3-very good,recent,insured,smoker,71,205,205,34,male
+3-very good,not recent,insured,smoker,65,155,145,80,male
+4-excellent,not recent,insured,nonsmoker,63,125,125,68,female
+4-excellent,recent,insured,nonsmoker,69,190,175,56,male
+3-very good,recent,insured,nonsmoker,69,165,165,54,male
+3-very good,recent,insured,smoker,73,290,230,52,male
+3-very good,recent,insured,nonsmoker,71,185,180,34,male
+3-very good,recent,insured,nonsmoker,68,220,190,28,female
+2-good,recent,insured,nonsmoker,67,185,185,28,male
+4-excellent,recent,insured,nonsmoker,65,118,118,43,female
+4-excellent,recent,insured,smoker,66,156,150,69,male
+3-very good,recent,insured,nonsmoker,64,148,135,25,female
+4-excellent,recent,insured,smoker,68,153,155,42,male
+1-fair,recent,insured,nonsmoker,76,225,225,66,male
+2-good,recent,insured,nonsmoker,71,230,200,50,male
+2-good,not recent,insured,smoker,61,145,125,50,female
+2-good,recent,insured,nonsmoker,69,200,200,38,male
+4-excellent,recent,insured,nonsmoker,65,190,150,37,female
+4-excellent,not recent,insured,smoker,72,165,165,35,male
+2-good,recent,insured,nonsmoker,65,125,120,41,female
+4-excellent,recent,insured,smoker,70,180,180,25,male
+4-excellent,recent,insured,nonsmoker,75,190,190,22,male
+3-very good,recent,insured,smoker,67,140,134,48,female
+3-very good,not recent,uninsured,smoker,61,175,135,32,female
+3-very good,recent,insured,nonsmoker,67,155,150,56,male
+3-very good,recent,insured,nonsmoker,71,170,170,71,male
+1-fair,not recent,uninsured,nonsmoker,75,215,180,48,male
+2-good,not recent,insured,smoker,70,190,175,53,male
+2-good,recent,insured,smoker,73,210,190,66,male
+2-good,not recent,insured,smoker,68,210,180,48,male
+4-excellent,recent,uninsured,nonsmoker,67,160,165,19,male
+0-poor,not recent,insured,smoker,72,150,165,64,male
+2-good,not recent,insured,smoker,65,150,150,39,male
+2-good,recent,insured,smoker,65,120,120,54,female
+3-very good,recent,insured,nonsmoker,70,148,158,44,male
+4-excellent,recent,insured,smoker,68,160,180,55,male
+1-fair,not recent,insured,smoker,63,180,145,26,female
+3-very good,recent,insured,nonsmoker,73,175,165,20,male
+4-excellent,recent,insured,smoker,65,160,120,34,female
+2-good,recent,insured,nonsmoker,71,220,200,19,male
+3-very good,recent,insured,smoker,71,230,190,30,male
+4-excellent,recent,insured,smoker,64,165,135,47,female
+3-very good,recent,insured,smoker,69,130,130,40,female
+2-good,not recent,insured,smoker,70,185,170,49,male
+3-very good,recent,insured,smoker,67,187,150,34,female
+4-excellent,recent,insured,smoker,69,155,155,92,male
+3-very good,recent,insured,nonsmoker,65,152,145,71,female
+2-good,not recent,insured,smoker,62,157,120,53,female
+2-good,not recent,uninsured,nonsmoker,72,200,160,64,male
+0-poor,recent,uninsured,nonsmoker,65,131,145,60,male
+4-excellent,recent,insured,smoker,67,180,179,62,male
+3-very good,recent,insured,nonsmoker,72,180,180,47,male
+2-good,recent,insured,nonsmoker,79,162,163,32,male
+2-good,not recent,insured,smoker,59,149,120,38,female
+3-very good,recent,insured,nonsmoker,67,200,170,22,female
+2-good,recent,insured,nonsmoker,72,225,180,61,male
+2-good,recent,insured,smoker,70,220,200,49,male
+2-good,not recent,insured,smoker,72,170,170,39,male
+2-good,recent,insured,nonsmoker,71,200,150,54,female
+3-very good,recent,insured,nonsmoker,67,160,148,66,female
+3-very good,recent,insured,smoker,71,185,175,42,male
+1-fair,not recent,uninsured,nonsmoker,64,180,130,53,female
+2-good,not recent,uninsured,nonsmoker,61,136,150,36,female
+4-excellent,recent,insured,smoker,64,100,130,44,female
+2-good,recent,insured,smoker,66,155,135,47,female
+3-very good,recent,insured,smoker,74,210,210,61,male
+3-very good,recent,insured,nonsmoker,72,155,145,28,male
+3-very good,recent,insured,nonsmoker,73,190,185,38,male
+4-excellent,recent,insured,smoker,71,170,170,34,male
+3-very good,recent,insured,smoker,72,200,185,63,male
+3-very good,recent,insured,nonsmoker,73,170,180,21,male
+4-excellent,recent,insured,smoker,68,185,180,52,male
+4-excellent,recent,insured,nonsmoker,63,125,125,48,male
+3-very good,recent,insured,smoker,66,145,140,47,female
+4-excellent,recent,insured,nonsmoker,62,140,135,65,female
+4-excellent,recent,insured,nonsmoker,68,125,125,47,female
+3-very good,not recent,insured,nonsmoker,66,170,145,48,female
+3-very good,recent,insured,smoker,67,190,160,28,male
+3-very good,recent,uninsured,smoker,66,120,120,19,male
+3-very good,not recent,insured,smoker,60,220,180,71,female
+3-very good,recent,insured,nonsmoker,71,185,175,48,male
+3-very good,recent,uninsured,smoker,71,189,179,45,male
+2-good,recent,uninsured,smoker,68,185,145,40,female
+0-poor,recent,insured,nonsmoker,62,200,130,61,female
+2-good,recent,insured,nonsmoker,64,165,130,53,female
+4-excellent,recent,insured,nonsmoker,73,180,170,24,male
+4-excellent,recent,insured,smoker,62,170,140,63,female
+1-fair,not recent,insured,smoker,65,165,130,66,female
+4-excellent,recent,insured,nonsmoker,66,180,150,70,female
+4-excellent,recent,insured,nonsmoker,64,110,110,22,female
+3-very good,recent,insured,smoker,65,175,135,46,female
+4-excellent,recent,insured,nonsmoker,64,130,130,47,female
+3-very good,not recent,insured,nonsmoker,68,210,175,52,female
+3-very good,not recent,insured,nonsmoker,60,100,105,84,female
+2-good,recent,insured,smoker,66,175,160,64,female
+3-very good,recent,insured,smoker,61,140,130,51,female
+3-very good,recent,insured,smoker,62,135,125,31,female
+3-very good,not recent,insured,nonsmoker,68,245,145,45,female
+3-very good,not recent,insured,nonsmoker,67,235,150,24,female
+3-very good,recent,insured,smoker,69,175,175,41,male
+1-fair,recent,insured,nonsmoker,67,145,145,71,male
+3-very good,recent,insured,nonsmoker,68,180,170,67,male
+3-very good,recent,insured,nonsmoker,68,140,140,21,female
+1-fair,recent,uninsured,nonsmoker,69,362,210,46,male
+2-good,not recent,uninsured,smoker,74,340,320,62,male
+4-excellent,recent,insured,nonsmoker,68,270,180,37,male
+4-excellent,recent,insured,smoker,62,150,120,69,female
+3-very good,recent,insured,nonsmoker,72,195,195,34,male
+3-very good,recent,insured,smoker,71,210,190,32,male
+3-very good,not recent,uninsured,nonsmoker,72,220,195,29,male
+4-excellent,not recent,insured,nonsmoker,68,160,160,32,male
+3-very good,recent,insured,nonsmoker,64,140,140,44,female
+4-excellent,recent,insured,nonsmoker,72,190,185,39,male
+2-good,not recent,insured,nonsmoker,67,179,179,38,male
+3-very good,recent,insured,nonsmoker,73,143,175,19,male
+4-excellent,recent,insured,nonsmoker,73,193,188,65,male
+4-excellent,not recent,uninsured,smoker,62,155,120,40,female
+2-good,recent,insured,smoker,67,155,155,28,male
+3-very good,recent,insured,nonsmoker,66,138,124,23,female
+4-excellent,recent,insured,smoker,61,125,120,50,female
+3-very good,recent,insured,nonsmoker,70,202,220,28,male
+2-good,recent,insured,nonsmoker,65,158,158,69,female
+3-very good,recent,insured,nonsmoker,72,185,180,41,male
+3-very good,recent,insured,nonsmoker,68,220,200,25,male
+3-very good,not recent,insured,smoker,61,150,120,58,female
+4-excellent,recent,uninsured,nonsmoker,69,170,170,52,male
+3-very good,recent,insured,smoker,72,180,155,48,male
+4-excellent,recent,insured,nonsmoker,65,144,136,39,female
+2-good,recent,insured,nonsmoker,71,180,180,20,male
+3-very good,recent,uninsured,nonsmoker,65,160,130,32,female
+3-very good,recent,insured,nonsmoker,69,200,150,44,female
+3-very good,not recent,insured,nonsmoker,69,125,125,38,female
+4-excellent,recent,insured,nonsmoker,71,170,140,37,female
+3-very good,recent,insured,smoker,66,190,130,31,female
+2-good,not recent,insured,smoker,69,168,168,46,male
+4-excellent,recent,insured,smoker,66,150,120,51,female
+2-good,not recent,insured,smoker,67,150,150,37,female
+0-poor,not recent,insured,smoker,71,230,180,53,male
+2-good,recent,insured,nonsmoker,70,250,190,55,male
+4-excellent,not recent,insured,smoker,65,165,150,63,female
+2-good,recent,insured,smoker,73,206,206,36,male
+3-very good,not recent,insured,smoker,74,240,210,29,male
+3-very good,recent,insured,smoker,62,200,135,41,female
+3-very good,recent,insured,nonsmoker,64,165,140,40,female
+2-good,recent,insured,smoker,68,145,145,26,male
+2-good,not recent,insured,smoker,78,250,250,33,male
+2-good,recent,insured,nonsmoker,66,230,180,55,male
+3-very good,recent,insured,smoker,64,125,125,52,female
+3-very good,recent,insured,smoker,64,150,140,32,female
+3-very good,not recent,insured,nonsmoker,72,190,170,52,male
+2-good,recent,insured,nonsmoker,59,130,103,65,female
+2-good,not recent,insured,smoker,65,162,160,69,female
+3-very good,recent,insured,smoker,64,135,125,39,female
+3-very good,not recent,insured,nonsmoker,64,133,125,19,female
+1-fair,not recent,insured,smoker,68,280,240,60,male
+2-good,recent,uninsured,smoker,65,128,128,19,female
+2-good,not recent,insured,nonsmoker,72,230,220,65,male
+1-fair,recent,insured,nonsmoker,60,200,150,37,female
+3-very good,recent,insured,smoker,69,172,172,47,male
+2-good,recent,insured,smoker,67,130,140,60,female
+1-fair,recent,insured,smoker,72,258,200,44,male
+3-very good,recent,insured,smoker,64,210,150,20,female
+3-very good,recent,uninsured,smoker,64,157,118,39,female
+3-very good,recent,insured,smoker,65,107,115,27,female
+1-fair,recent,uninsured,nonsmoker,64,152,140,48,female
+2-good,not recent,insured,nonsmoker,69,128,180,53,male
+3-very good,recent,insured,smoker,70,160,200,18,male
+4-excellent,recent,uninsured,nonsmoker,60,95,110,22,female
+2-good,recent,insured,smoker,68,170,170,49,male
+3-very good,recent,insured,smoker,64,130,120,47,female
+3-very good,recent,insured,smoker,64,100,80,20,female
+2-good,not recent,insured,smoker,66,135,125,33,female
+3-very good,not recent,uninsured,nonsmoker,67,140,160,24,female
+2-good,not recent,insured,nonsmoker,62,170,130,30,female
+3-very good,recent,insured,nonsmoker,69,160,160,75,male
+3-very good,recent,insured,nonsmoker,68,145,130,20,female
+3-very good,recent,insured,smoker,72,230,200,56,male
+3-very good,recent,insured,smoker,71,186,180,52,male
+2-good,recent,insured,nonsmoker,65,140,140,44,male
+4-excellent,recent,insured,smoker,69,210,170,43,female
+1-fair,not recent,insured,nonsmoker,71,180,160,32,female
+4-excellent,recent,insured,nonsmoker,68,145,145,58,male
+2-good,recent,insured,smoker,67,230,205,69,male
+3-very good,recent,insured,smoker,74,185,185,37,male
+4-excellent,recent,insured,smoker,70,168,168,24,male
+1-fair,recent,insured,nonsmoker,65,190,150,24,female
+3-very good,recent,insured,nonsmoker,64,158,128,39,female
+3-very good,recent,insured,nonsmoker,76,250,200,51,male
+3-very good,recent,insured,smoker,64,140,135,22,female
+3-very good,recent,uninsured,smoker,64,164,145,29,female
+2-good,not recent,insured,smoker,72,165,175,40,male
+3-very good,recent,insured,smoker,69,170,170,54,male
+4-excellent,recent,insured,nonsmoker,65,150,140,21,female
+2-good,recent,insured,smoker,68,200,180,18,male
+2-good,recent,insured,smoker,72,175,175,23,male
+1-fair,not recent,insured,smoker,62,245,145,43,female
+4-excellent,recent,insured,nonsmoker,71,185,185,46,male
+4-excellent,recent,insured,nonsmoker,67,130,130,36,female
+1-fair,recent,uninsured,nonsmoker,57,126,100,27,female
+3-very good,recent,insured,smoker,63,136,126,65,female
+2-good,recent,insured,smoker,66,150,150,56,male
+2-good,recent,insured,smoker,66,263,190,35,male
+3-very good,recent,insured,nonsmoker,62,113,113,59,female
+4-excellent,recent,insured,nonsmoker,68,115,120,45,female
+3-very good,recent,insured,nonsmoker,61,109,109,32,female
+3-very good,recent,insured,smoker,73,285,260,28,male
+3-very good,recent,insured,smoker,70,182,175,52,male
+3-very good,recent,insured,nonsmoker,73,197,188,36,male
+3-very good,recent,insured,smoker,68,155,150,57,female
+2-good,recent,insured,nonsmoker,62,174,120,86,female
+1-fair,recent,insured,smoker,62,125,120,39,female
+2-good,recent,insured,smoker,65,149,150,77,male
+2-good,recent,insured,nonsmoker,61,160,130,69,female
+4-excellent,recent,insured,smoker,61,150,150,47,female
+3-very good,not recent,insured,nonsmoker,66,190,150,22,female
+3-very good,not recent,uninsured,nonsmoker,63,160,140,22,female
+2-good,recent,insured,nonsmoker,67,155,160,21,male
+3-very good,recent,insured,smoker,61,123,115,59,female
+3-very good,recent,insured,smoker,68,190,160,46,female
+3-very good,recent,insured,smoker,59,152,145,72,female
+3-very good,recent,insured,nonsmoker,65,125,120,53,female
+1-fair,recent,insured,nonsmoker,62,160,140,65,female
+3-very good,recent,insured,nonsmoker,72,230,200,53,male
+2-good,not recent,insured,smoker,61,125,110,29,female
+4-excellent,recent,insured,smoker,62,122,119,74,female
+3-very good,recent,uninsured,smoker,69,170,150,46,male
+2-good,recent,insured,nonsmoker,69,160,155,67,male
+4-excellent,recent,insured,nonsmoker,69,130,125,33,female
+2-good,recent,insured,nonsmoker,63,110,110,79,female
+4-excellent,recent,insured,smoker,64,110,110,40,female
+4-excellent,recent,insured,nonsmoker,70,180,165,37,male
+4-excellent,recent,insured,nonsmoker,71,210,210,40,male
+3-very good,recent,insured,nonsmoker,65,160,160,62,female
+3-very good,recent,insured,nonsmoker,76,170,190,22,male
+1-fair,recent,insured,smoker,70,183,175,75,male
+3-very good,recent,insured,smoker,63,140,135,52,female
+3-very good,recent,uninsured,nonsmoker,71,216,196,25,male
+4-excellent,recent,insured,smoker,69,160,155,51,male
+3-very good,recent,insured,smoker,62,135,135,51,male
+3-very good,recent,insured,smoker,63,168,152,69,female
+3-very good,recent,insured,smoker,60,120,120,49,female
+3-very good,recent,insured,smoker,62,137,115,35,female
+2-good,not recent,insured,nonsmoker,75,250,255,41,male
+2-good,not recent,insured,nonsmoker,62,145,145,85,female
+2-good,recent,insured,nonsmoker,62,172,130,45,female
+4-excellent,not recent,insured,smoker,71,208,185,71,male
+2-good,recent,uninsured,smoker,60,115,105,42,female
+3-very good,recent,insured,nonsmoker,72,280,235,57,male
+3-very good,recent,insured,smoker,66,162,135,36,female
+3-very good,recent,insured,nonsmoker,66,145,145,30,male
+3-very good,not recent,insured,nonsmoker,69,165,145,48,female
+3-very good,recent,insured,nonsmoker,66,149,147,73,female
+3-very good,recent,insured,smoker,70,205,185,43,male
+1-fair,recent,uninsured,smoker,69,215,185,54,male
+3-very good,not recent,insured,nonsmoker,66,148,135,35,female
+2-good,recent,insured,smoker,70,163,165,21,male
+2-good,not recent,uninsured,nonsmoker,67,190,170,35,male
+3-very good,not recent,insured,nonsmoker,70,230,200,22,male
+0-poor,not recent,insured,smoker,65,155,155,55,female
+2-good,not recent,insured,nonsmoker,66,240,165,32,female
+3-very good,not recent,insured,nonsmoker,65,117,112,41,female
+4-excellent,recent,insured,nonsmoker,66,130,125,32,female
+2-good,recent,insured,smoker,65,156,156,52,male
+3-very good,recent,insured,smoker,65,150,150,28,female
+3-very good,recent,insured,smoker,64,140,120,32,female
+3-very good,not recent,insured,smoker,70,200,200,29,male
+1-fair,recent,uninsured,nonsmoker,64,180,120,47,female
+2-good,recent,insured,smoker,67,140,130,63,female
+4-excellent,recent,insured,smoker,69,175,165,52,male
+4-excellent,recent,insured,smoker,75,200,200,43,male
+1-fair,not recent,insured,nonsmoker,71,185,185,57,male
+3-very good,not recent,insured,nonsmoker,66,135,135,55,male
+3-very good,recent,insured,smoker,66,152,160,25,male
+4-excellent,recent,insured,smoker,68,155,155,85,male
+3-very good,recent,insured,nonsmoker,62,135,125,74,female
+4-excellent,recent,insured,smoker,70,180,160,52,male
+2-good,recent,insured,nonsmoker,69,210,180,32,male
+4-excellent,recent,insured,smoker,70,150,150,71,male
+2-good,recent,insured,nonsmoker,72,300,240,40,male
+2-good,not recent,insured,nonsmoker,66,135,130,37,female
+0-poor,recent,uninsured,nonsmoker,63,125,120,62,female
+2-good,recent,insured,nonsmoker,69,220,190,72,male
+1-fair,recent,insured,nonsmoker,59,135,120,78,female
+2-good,recent,insured,smoker,75,230,215,27,male
+2-good,recent,insured,nonsmoker,66,170,135,42,female
+3-very good,recent,uninsured,nonsmoker,68,135,130,31,female
+4-excellent,recent,insured,smoker,72,185,185,56,male
+4-excellent,recent,insured,nonsmoker,75,173,173,18,male
+4-excellent,recent,insured,smoker,70,180,160,65,female
+3-very good,recent,insured,nonsmoker,66,110,110,23,female
+2-good,recent,insured,smoker,70,240,180,68,female
+3-very good,recent,insured,smoker,62,120,120,39,female
+4-excellent,not recent,insured,smoker,69,205,150,30,female
+2-good,not recent,insured,smoker,67,163,140,39,female
+1-fair,recent,insured,smoker,67,250,180,41,female
+2-good,recent,insured,nonsmoker,74,180,180,25,male
+4-excellent,recent,insured,nonsmoker,69,168,160,66,male
+3-very good,not recent,insured,smoker,62,118,118,87,female
+4-excellent,recent,insured,nonsmoker,66,160,140,43,female
+4-excellent,recent,insured,nonsmoker,63,182,205,28,male
+3-very good,recent,insured,nonsmoker,64,145,125,22,female
+2-good,recent,insured,smoker,66,138,135,25,female
+3-very good,recent,insured,smoker,71,190,180,41,male
+0-poor,not recent,insured,nonsmoker,65,216,150,57,female
